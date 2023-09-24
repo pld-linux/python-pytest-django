@@ -3,7 +3,7 @@
 %bcond_without	doc	# Sphinx documentation
 %bcond_with	tests	# unit tests (some db setup required?)
 %bcond_without	python2 # CPython 2.x module
-%bcond_without	python3 # CPython 3.x module
+%bcond_with	python3 # CPython 3.x module (built from python3-pytest-django.spec)
 
 Summary:	Django plugin for pytest
 Summary(pl.UTF-8):	Wtyczka Django dla pytesta
