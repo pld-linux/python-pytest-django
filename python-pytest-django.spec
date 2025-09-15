@@ -10,7 +10,7 @@ Summary(pl.UTF-8):	Wtyczka Django dla pytesta
 Name:		python-pytest-django
 # keep 3.x here for python2 support
 Version:	3.10.0
-Release:	1
+Release:	2
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/pytest-django/
